@@ -1,0 +1,13 @@
+.back{
+    background-image: url("../image/backimg.jpg");
+    background-size: cover;
+    height: 1200px;
+    padding-top: 60px;
+    position: relative;
+    padding-left: 80px;
+}
+.outer{
+    color: white;
+}
+
+
